@@ -1,0 +1,21 @@
+.outline p {
+  margin: 0px;
+  font-size: 20px;  
+}
+
+.outline h4 {
+  margin: 0px;
+}
+
+.outline {
+  border-radius: 5px;
+  background-color: rgba(0,0,0,0.5);    
+}
+
+.Title {
+    text-shadow: 0 0 3px #FF0000;
+}
+
+
+
+  
